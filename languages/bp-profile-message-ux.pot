@@ -1,0 +1,72 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bp-profile-message-ux\n"
+"POT-Creation-Date: 2019-04-02 15:22-0700\n"
+"PO-Revision-Date: 2013-03-31 11:59-0800\n"
+"Last-Translator: \n"
+"Language-Team: shanebp\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: bp-profile-message-ux.php:21
+msgid "Please enter some content in the Private Message form."
+msgstr ""
+
+#: bp-profile-message-ux.php:22
+msgid "Private Message was sent!"
+msgstr ""
+
+#: bp-profile-message-ux.php:23
+msgid ""
+"There was an error sending that Private Message. Please make sure you fill "
+"out both fields."
+msgstr ""
+
+#: bp-profile-message-ux.php:56 bp-profile-message-ux.php:106
+msgid "Send a private message to"
+msgstr ""
+
+#: bp-profile-message-ux.php:57 bp-profile-message-ux.php:107
+msgid "Private Message"
+msgstr ""
+
+#: bp-profile-message-ux.php:58 bp-profile-message-ux.php:108
+#: bp-profile-message-ux.php:196
+msgid "Send Message"
+msgstr ""
+
+#: bp-profile-message-ux.php:59 bp-profile-message-ux.php:109
+msgid "Subject"
+msgstr ""
+
+#: bp-profile-message-ux.php:60 bp-profile-message-ux.php:110
+#: bp-profile-message-ux.php:197
+msgid "Message"
+msgstr ""
+
+#: bp-profile-message-ux.php:159
+msgid "Please enter some content in the Public Message form."
+msgstr ""
+
+#: bp-profile-message-ux.php:160
+msgid "Your Public Message has been posted!"
+msgstr ""
+
+#: bp-profile-message-ux.php:161
+msgid "There was an error when posting your Public Message, please try again."
+msgstr ""
+
+#: bp-profile-message-ux.php:194
+msgid "Send a public message to"
+msgstr ""
+
+#: bp-profile-message-ux.php:195
+msgid "Public Message"
+msgstr ""
